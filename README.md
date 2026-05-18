@@ -18,7 +18,7 @@
 
 Especializado en arquitectura y desarrollo Frontend/Backend. Apasionado por el aprendizaje constante de nuevas tecnologías y por aplicar soluciones innovadoras a cada reto y oportunidad. Enfocado en crear aplicaciones eficientes, escalables y de alto impacto.
 
-- 🌍 **Colombia**
+- 🌍 Colombia
 - 💼 Actualmente trabajando en **UniLink International Holding**
 - 🚀 Siempre aprendiendo y mejorando
 - 🎯 Enfocado en buenas prácticas y código de calidad
@@ -30,18 +30,26 @@ Especializado en arquitectura y desarrollo Frontend/Backend. Apasionado por el a
 **Frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **DevOps & Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -49,10 +57,9 @@ Especializado en arquitectura y desarrollo Frontend/Backend. Apasionado por el a
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🏠 **Rommie** | App personal Full Stack para gestión de roommates | TypeScript + C# |
-| ⚡ **Pokedex** | Prueba técnica Frontend | Vue.js |
-| 💬 **Chat App** | Aplicación de chat en tiempo real | TypeScript |
-| 🏥 **Multisalud** | Sistema de salud empresarial | TypeScript + Vue |
+| 🏠 **RommieMatch** | App personal Full Stack para matching de roommates | TypeScript + C# |
+| 🪨 **Catalogación MDM Unilink** | Workflows de clasificación de materiales mineros | TypeScript + Vue |
+| 🛒 **Marketplace Unilink** | Plataforma de cotizaciones de bienes y servicios mineros | TypeScript + Vue |
 
 ---
 
