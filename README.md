@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=👋+Hola,+soy+Joan+Quintero;Desarrollador+Full+Stack;Vue+%7C+TypeScript+%7C+C%23" alt="Typing SVG" />
+  <img src="https://github.com/JoanQ07/JoanQ07/blob/main/Gemini_Generated_Image_2jayvz2jayvz2jay.png" alt="Typing SVG"  width="250px" higth="250px"/>
 </div>
 
 ---
@@ -66,10 +66,6 @@ Especializado en arquitectura y desarrollo Frontend/Backend. Apasionado por el a
 ## 📊 Estadísticas
 
 <div align="center">
-
-![JoanQ07's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanQ07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanQ07&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JoanQ07&theme=tokyonight&hide_border=true)
 
