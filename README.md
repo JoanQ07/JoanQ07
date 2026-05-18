@@ -16,10 +16,10 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un **Desarrollador de Software Full Stack** de Colombia, apasionado por construir aplicaciones web modernas, robustas y bien estructuradas. Me enfoco en escribir código limpio, colaborar en equipo y entregar soluciones que realmente impacten.
+Especializado en arquitectura y desarrollo Frontend/Backend. Apasionado por el aprendizaje constante de nuevas tecnologías y por aplicar soluciones innovadoras a cada reto y oportunidad. Enfocado en crear aplicaciones eficientes, escalables y de alto impacto.
 
-- 🌍 Basado en **Colombia**
-- 💼 Actualmente trabajando en **Multisalud**
+- 🌍 **Colombia**
+- 💼 Actualmente trabajando en **UniLink International Holding**
 - 🚀 Siempre aprendiendo y mejorando
 - 🎯 Enfocado en buenas prácticas y código de calidad
 
