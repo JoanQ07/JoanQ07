@@ -57,9 +57,9 @@ Especializado en arquitectura y desarrollo Frontend/Backend. Apasionado por el a
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🏠 **RommieMatch** | App personal Full Stack para matching de roommates | TypeScript + C# |
-| 🪨 **Catalogación MDM Unilink** | Workflows de clasificación de materiales mineros | TypeScript + Vue |
-| 🛒 **Marketplace Unilink** | Plataforma de cotizaciones de bienes y servicios mineros | TypeScript + Vue |
+| 🏠 **RommieMatch** | App personal Full Stack para matching de roommates | ReactNative + C# |
+| 🪨 **Catalogación MDM Unilink** | Workflows de clasificación de materiales mineros | Vue + Graphql/Hasura |
+| 🛒 **Marketplace Unilink** | Plataforma de cotizaciones de bienes y servicios mineros | Vue + C# + NestJs |
 
 ---
 
